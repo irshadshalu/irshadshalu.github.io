@@ -4,6 +4,9 @@ title:  "ഇഫ്താർ - A Malayalam Short Story"
 date:   2020-02-08 01:24:04 +0530
 categories: malayalam story
 ---
+The following is a Malayalam story I've written around 4-5 years ago. Felt like it's worth sharing it here :)
+
+## ഇഫ്താർ
 
 നേരം ഇരുട്ടുന്തോറും വിശപ്പ് കൂടിവരികയാണു... റമദാൻ ഇരുപത്തിഒന്ന് ആണു ഇന്ന്... തന്റെ ഇരുപതാമത്തെ നോമ്പും, പനിപിടിച്ച അന്ന് വീട്ടുകാരുടെ നിർബന്ധത്തിനു വഴങ്ങി നോമ്പ് മുറിക്കേണ്ടി വന്നത് കൊണ്ട് ഈ വർഷവും മുപ്പത് നോമ്പ് തികക്കാൻ പറ്റുകില്ല.  
 
