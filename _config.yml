@@ -25,7 +25,8 @@ github_username:  irshadshalu
 # Build settings
 markdown: kramdown
 # remote_theme: b2a3e8/jekyll-theme-console
-remote_theme: thelehhman/plainwhite-jekyll
+# remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: chesterhow/tale
 style: dark
 header_pages:
   - index.md
@@ -51,8 +52,13 @@ plainwhite:
   social_links:
     twitter: irshadshalu
     github: irshadshalu
-    linkedIn: in/irshadshalu # format: locale/username
+    linkedIn: in/irshadpi # format: locale/username
   analytics_id:
     'UA-158042880-1'
-show_excerpts: true
 
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
