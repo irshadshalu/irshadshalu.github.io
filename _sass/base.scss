@@ -6,6 +6,7 @@
  */
 $base-font-family:     'Source Code Pro', monospace !default;
 $base-font-size:       16px !default;
+$title-font-size:       18px !default;
 $mobile-font-size:     13px !default;
 $base-line-height:     1.5 !default;
 $container-width:      90% !default;
@@ -21,12 +22,16 @@ a { text-decoration: underline;  color: var(--link-color); }
 a:hover { color: var(--background-color); background-color: var(--base-color); }
 .primary-text { color: var(--primary-color); }
 @media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
-/*h1:before { content: "#";  margin-right: 9px; }
+h1:before { content: "#";  margin-right: 9px; }
 h2:before { content: "##";  margin-right: 9px; }
 h3:before { content: "###";  margin-right: 9px; }
 h4:before { content: "####";  margin-right: 9px; }
 h5:before { content: "#####";  margin-right: 9px; }
-h6:before { content: "######";  margin-right: 9px; }*/
+h6:before { content: "######";  margin-right: 9px; }
+
+h1 {
+	font-size: $title-font-size;
+}
 
 /**
  * Layout
