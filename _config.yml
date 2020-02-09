@@ -24,7 +24,8 @@ github_username:  irshadshalu
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+# remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: thelehhman/plainwhite-jekyll
 style: dark
 header_pages:
   - index.md
@@ -42,3 +43,12 @@ footer: Crafted with Jekyll, Served using Github Pages
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+plainwhite:
+  name: Irshad P I
+  tagline: Developer.
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: irshadshalu
+    github: irshadshalu
+    linkedIn: in/irshadshalu # format: locale/username
