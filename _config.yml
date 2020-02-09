@@ -52,3 +52,7 @@ plainwhite:
     twitter: irshadshalu
     github: irshadshalu
     linkedIn: in/irshadshalu # format: locale/username
+  analytics_id:
+    'UA-158042880-1'
+show_excerpts: true
+
