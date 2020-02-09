@@ -1,16 +1,14 @@
 ---
 
 layout: post
-title: Obfuscated Memories
-permalink: /
+title: About Me
+permalink: /about
 
 ---
 
-## Welcome!
-
 > I'm Irshad and introductions are hard. 
 
-### Stuff I love
+### Stuff I love doing
 
 > Programming, Math, Philosophy, Photography, Music, Movies and Cats. Obsessed with time-travel and I do enjoy a game of chess. 
 
