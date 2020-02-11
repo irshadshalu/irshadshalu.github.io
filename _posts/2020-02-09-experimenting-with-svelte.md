@@ -38,24 +38,24 @@ Enough talk, let's dive into some Hello World!.
 
 Starting with an empty Svelte project was way easier than I imagined. I started with the sveltejs/template and used [degit](https://github.com/Rich-Harris/degit) for project scaffolding as recommended.
 
-```
-	npx degit sveltejs/template project-name
-	cd project-name
+```bash
+npx degit sveltejs/template project-name
+cd project-name
 ```
 
 And then install and run using
 
-```
+```bash
 npm install
 npm run dev
 ```
 
 Phew, that just went good!
 
-![Svelte Is Ready Terminal](assets/svelte-is-ready.png)
+![Svelte Is Ready Terminal](/assets/svelte-is-ready.png)
 
 
-![Svelte Hello World](assets/svelte-hello-world.png)
+![Svelte Hello World](/assets/svelte-hello-world.png)
 
 
 I like it when things just working without having to go on stackoverflow treasure hunt to fix things.
