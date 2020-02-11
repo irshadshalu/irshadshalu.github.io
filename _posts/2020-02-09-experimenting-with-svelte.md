@@ -20,7 +20,7 @@ _Will I find it amazing? or will I hate it?, Will I even get time to try it out 
 ## Hour 0 - I don't know Svelte at all. 
 
 
-I opened [https://svelte.dev](https://svelte.dev), And the main selling points were
+I opened https://svelte.dev, And the main selling points were
 
 
 * Write less code - _Boilerplate-free components._ Ah, like most other framework promises, but fails to deliver? let's see...
@@ -31,3 +31,35 @@ I opened [https://svelte.dev](https://svelte.dev), And the main selling points w
 
 
 Enough talk, let's dive into some Hello World!. 
+
+
+
+## Hour 1 - I still don't know much of Svelte, but I will. This is cool!
+
+Starting with an empty Svelte project was way easier than I imagined. I started with the sveltejs/template and used [degit](https://github.com/Rich-Harris/degit) for project scaffolding as recommended.
+
+```
+	npx degit sveltejs/template project-name
+	cd project-name
+```
+
+And then install and run using
+
+```
+npm install
+npm run dev
+```
+
+Phew, that just went good!
+
+![Svelte Is Ready Terminal](assets/svelte-is-ready.png)
+
+
+![Svelte Hello World](assets/svelte-hello-world.png)
+
+
+I like it when things just working without having to go on stackoverflow treasure hunt to fix things.
+
+
+
+

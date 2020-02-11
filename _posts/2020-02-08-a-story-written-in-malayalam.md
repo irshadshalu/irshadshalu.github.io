@@ -4,7 +4,7 @@ title:  "ഇഫ്താർ - A Malayalam Short Story"
 date:   2020-02-08 01:24:04 +0530
 categories: malayalam story
 ---
-The following is a Malayalam story I've written around 4-5 years ago. Felt like it's worth sharing it here :)
+Following is a Malayalam story I've written around 4-5 years ago. Felt like it's worth sharing it here :)
 
 ## ഇഫ്താർ
 
