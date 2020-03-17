@@ -56,7 +56,7 @@ Phew, that just went good!
 ![Svelte Hello World](/assets/svelte-hello-world.png)
 
 
-I like it when things just working without having to go on _stackoverflow treasure hunt_ to fix things.
+I like it when things just work without having to go on _stackoverflow treasure hunt_ to fix things.
 
 
 Time to learn something solid: https://svelte.dev/tutorial/basics 
