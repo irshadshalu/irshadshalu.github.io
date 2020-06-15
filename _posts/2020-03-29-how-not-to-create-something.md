@@ -18,7 +18,7 @@ Before all of this happened, I've been busy trying to learn Algorithms, Data Str
 
 ## What am I Going to Make?
 
-I had few ideas. One of them was an idea to make a game that's similar to the popular "Psych by Ellen"[^1] game, but with some additional features and UI/UX improvements to make it a lot better (I'm sorry Psych devs, the idea is brilliant, but the implementation can be done better). Also, the last time I tried to play Psych, they showed me a notifications which read along the lines of
+I had few ideas. One of them was an idea to make a game that's similar to the popular "Psych by Ellen"[^1] game, but with some additional features and UI/UX improvements to make it a lot better (I'm sorry Psych devs, the idea is brilliant, but the implementation can be a lot better). Also, the last time I tried to play Psych, they showed me a notifications which read along the lines of
 
 > "We are getting too much load which is causing issues to the game servers. Please try again later if you have trouble creating game"
 
