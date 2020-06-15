@@ -7,7 +7,7 @@ categories: music code
 
 # Best Of Music Grid
 
-Following are some of the best compositions that I came across (mostly taken from [here](https://news.ycombinator.com/item?id=23512297) ).  If you have one to share, post the link in comments.
+Following are some of the best compositions that I came across (mostly taken from [here](https://news.ycombinator.com/item?id=23512297) ).  If you have one to share, post the link in comments (You might need a GitHub account!)
 
 1. [Super Mario by rkagerer](https://music-grid.surge.sh/#0-2048-0-144-1072-0-40-530-0-268-24-0-1048-0-24-2072-0-2048-0-1024-0-0-512-18-0-268-24-0-1048-0-24-2072-0-0-2048-144-1072-0-40-530-0-268-24-0-1048-0-24-24-0-0-0-528-40-64-0-136-0-34-68-0-9-18-0-72-656-0-656-40-0-72-0-144-0-0-544-0-0-272-0-0-36-0-0-0-2304-0-0-0-17-0-1058-2084-0-1058-0-1058-1058-&399)
 2. [bradleybudas Magnum Opus](https://music-grid.surge.sh/#1352-1348-2568-2576-1290-1288-2565-2564-1352-1348-2568-2576-1290-1416-2565-2564-1352-1348-2568-2576-1290-1288-2565-2564-1352-1348-2568-2576-1290-1288-2565-2564-1352-1352-2704-2704-1352-1352-2704-2704-1352-1352-2704-2704-1352-1352-2704-2704-1344-1344-2688-2688-1344-1344-2688-2688-1344-1344-2688-2688-1344-1344-2688-2688-1280-1280-2560-2560-1280-1280-2560-2560-1280-1280-2560-2560-1280-1280-2560-2560-1024-1024-2048-2048-1024-1024-2048-2048-1024-1024-2048-2048-1024-1024-2048-2048-&400)
