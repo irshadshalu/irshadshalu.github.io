@@ -8,14 +8,18 @@ permalink: /about
 
 I'm Irshad and introductions are hard. 
 
-### Stuff I love doing
+### Stuff I love
 
-Programming, Math, Philosophy, Photography, Music, Movies and Cats. Obsessed with time-travel and I do enjoy a game of chess. 
+Programming, Math, Philosophy, Photography, Music, Movies and Cats, time-travel, Chess and other abstract strategy games
 
-### Things I am proud of
+### Things I made
+
+[**Music Grid**](http://music-grid.surge.sh/) - A simple music grid you can play around with to create short beautiful music. 
 
 [**Picboard**](https://play.google.com/store/apps/details?id=in.picboard.imagesearchkeyboard&referrer=utm_source%3Dpw) - The first image search keyboard for Android.
+
 [**Whatsaga**](https://play.google.com/store/apps/details?id=in.whatsaga.whatsapplongerstatus&referrer=utm_source%3Dpw) - A status saver and video cutter app for everday WhatsApp user.
+
 [**WhatStickers**](https://play.google.com/store/apps/details?id=in.whatstickers.whatsapp.custom.sticker.maker.personal&referrer=utm_source%3Dpw) - A silly custom sticker maker app for Android. 
 
 ### Stuff I have written 
