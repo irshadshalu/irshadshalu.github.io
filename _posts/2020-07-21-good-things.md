@@ -15,6 +15,8 @@ I'll be adding more as I go. So do check back later.
 * [How to Understand Things](https://nabeelqu.co/understanding) - Improve the quality of your thoughts
 * [Grave Errors Made By Men in Their 20s
 ](https://lifemathmoney.com/grave-errors-made-by-men-in-their-20s/) - Something I wish I had read when I was 19.
+* [Teach yourself programming in 10 years](https://norvig.com/21-days.html) - Well, to those who thought you can learn X in Y days
+
 
 ### Videos
 
@@ -27,3 +29,12 @@ I'll be adding more as I go. So do check back later.
 * [Why You Can't Name A File CON In Windows by Tom Scott](https://www.youtube.com/watch?v=bC6tngl0PTI) - People like just the right combination of Novelty and Familiarity
 * [This video has X views](https://www.youtube.com/watch?v=BxV14h0kFs0) - Well, what can I say, I like his videos!
 * [This equation will change how you see the world](https://www.youtube.com/watch?v=ovJcsL7vyrk) - Mandelbrot set and bifrication diagram, unlocking the code behind universe?
+* ["I'm a Machine" An interview with Fabiano Caruana by Tania Sachdev](https://www.youtube.com/watch?v=G9NabGlnDCs) - Well, there's definitely something going on (Comment section is gold)
+
+
+### People 
+
+* [Donald Knuth](https://www-cs-faculty.stanford.edu/~knuth/) - One of the best programmers of our time, created LaTeX, wrote [TAOCP](https://www-cs-faculty.stanford.edu/~knuth/taocp.html)
+* [Fabrice Bellard](http://bellard.org/) - Creator of FfMpeg, QuickJS, TCC and a lot of fantastic stuff. An underrated gem of a programmer.
+* [Martin Fowler](https://martinfowler.com/) -  Software Engineering, Refactoring and stuff (aimed more at the industrial aspect than the creative aspect.)
+* [Kailash Nadh](https://nadh.in/) - CTO of Zerodha, created ml2en and a ton of other projects.
