@@ -89,3 +89,5 @@ References:
 [^3]: [Interview with Paul Allen Newell](https://www.digitpress.com/library/interviews/interview_paul_allen_newell.html)
 [^4]: [An archaeological examination of an Atari 2600 game](https://arxiv.org/ftp/arxiv/papers/1811/1811.02035.pdf)
 [^5]: [Maze Algorithms](https://datagenetics.com/blog/november22015/index.html)
+[^6]: [The mysterious maze generating code hidden in an early video game
+](https://www.reddit.com/r/programming/comments/d8kk03/the_mysterious_maze_generating_code_hidden_in_an/)
