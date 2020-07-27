@@ -78,7 +78,31 @@ _X is generated using the bit values of a, b, c, d and e._
 
 Before approaching the solution, my intuition for the answer is "No", it is not possible to generate an Interesting maze with only using the given context-bits for generating the next bit.
 
-### WIP
+Take P to be our initial Conjecture
+
+P: _It is possible to construct a vertically scrolling perfect maze with at least one dead-end using the cell values of previous two blocks in the same row and left, middle and right cells on the row above it_
+
+Assume our generated maze Z has a thick wall with two cells width on either sides (This doesn't affect our original conjecture since adding solid walls on sides will not interfere with the original solution) 
+
+Ehhm... Waitt!!
+
+As I was trying this out in paper to order to prove it, I actually was able to come up with a configuration that generates a perfect maze (with only one path and no loops) and with more than one dead-ends, although it doesn't look very _challenging_, it does satisfy all the criteria and it is trivial to show that the maze will satisfy these conditions (Since no random selection is involved). [Here](https://codesandbox.io/s/solitary-microservice-6j1zk?file=/src/index.tsx) is the configuration for those who are interested (You might want to toggle the first row to something like 1,0,1,1,1,1,1)
+
+
+![A maze which is perfect and has dead-ends](/assets/maze/silly_maze.png)
+_Well, that was a bit disappointing_
+
+And even adding some randomness makes the maze a bit better, but still kinda not challenging.
+
+![This maze looks a bit more interesting at least](/assets/maze/somewhat_okay_maze.png)
+_At least this one is a little bit better_
+
+
+
+Okay, but this is not what I want, I want a maze that is challenging as well, and something that could be randomized (Although not strictly a requirement at the moment. So it's time to re-define our "Interesting Maze" a little bit more so that it actually is interesting!
+
+_Work in Progress_
+
 
 
 
