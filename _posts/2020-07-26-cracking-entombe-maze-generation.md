@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "An Attempt to Crack the Entombed Maze Generation Algorithm"
+description: Attempting to solve what I thought was an interesting challenge only to find out it was not. So I proposed a new challenge.
 date:   2020-07-25 21:12:04 +0530
 categories: code study puzzle
 ---
