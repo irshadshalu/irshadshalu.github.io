@@ -30,7 +30,7 @@ I'll be adding more as I go. So do check back later.
 * [This video has X views](https://www.youtube.com/watch?v=BxV14h0kFs0) - Well, what can I say, I like his videos!
 * [This equation will change how you see the world](https://www.youtube.com/watch?v=ovJcsL7vyrk) - Mandelbrot set and bifrication diagram, unlocking the code behind universe?
 * ["I'm a Machine" An interview with Fabiano Caruana by Tania Sachdev](https://www.youtube.com/watch?v=G9NabGlnDCs) - Well, there's definitely something going on (Comment section is gold)
-
+* [vue.js: The documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) - Beautiful documentary on the creation and inception of vuejs.
 
 ### People 
 
