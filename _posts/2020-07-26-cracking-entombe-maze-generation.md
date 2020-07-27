@@ -6,6 +6,8 @@ date:   2020-07-25 21:12:04 +0530
 categories: code study puzzle
 ---
 
+![A silly doodle of a silly maze](/assets/maze/maze-doodle.png)
+
 _Work in Progress_
 
 So I came across this problem in the List of unsolved problems in computer science - Wikipedia[^1] on a boring Saturday evening when I was randomly browsing the web.
@@ -20,7 +22,7 @@ The game has been subject to academic research particularly for its maze generat
 
 
 
-## The problem
+## Defining the problem
 
 The mazes that were produced in the game were unsolvable without efficient use of the make-break item (Which adds the game factor to it). However, during an interview with the Paul Allen Newell who previously worked on the game, it is said that they were able to come up with an algorithm which consistently generates solvable mazes in the interview with Paul Allen Newell[^3]
 
@@ -75,7 +77,7 @@ So our problem definition becomes
 _X is generated using the bit values of a, b, c, d and e._
 
 
-## The Solution
+## Attempting a solution
 
 Before approaching the solution, my intuition for the answer is "No", it is not possible to generate an Interesting maze with only using the given context-bits for generating the next bit.
 
