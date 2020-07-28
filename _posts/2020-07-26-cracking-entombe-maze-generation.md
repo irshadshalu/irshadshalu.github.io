@@ -6,8 +6,6 @@ date:   2020-07-25 21:12:04 +0530
 categories: code study puzzle
 ---
 
-![A silly doodle of a silly maze](/assets/maze/maze-doodle.png)
-
 _Work in Progress_
 
 So I came across this problem in the List of unsolved problems in computer science - Wikipedia[^1] on a boring Saturday evening when I was randomly browsing the web.
@@ -28,14 +26,14 @@ The mazes that were produced in the game were unsolvable without efficient use o
 
 > The story of the algorithm is that one night after work, Duncan and I went out for a beer and ended up coming up with this “problem” of wondering whether one could generate an endless maze that always had a solution.  At the time, we weren’t thinking of a game per se, it just seemed like an interesting puzzle for us to solve.  We worked out the algorithm and, since I knew how to program a VCS system (Duncan was Vectrex only), I spent a weekend coding something up.  We were surprised at the elegance of the algorithm as it gave us the ability to dial in a “difficulty factor” (via a bit setting) and we could prove that there was not only a point where it became unsolvable
 
-_(Here, “VCS system” refers to Atari Video Computer System)_
+_(Here, “VCS" refers to Atari Video Computer System and not Version Control System)_
 
 So the question I was actually interested in is
 
 ### Is it possible to come up with a maze generation algorithm which only produces a solvable maze using the 5 context bits (two bits to the left and three bits above)?
 
 
-Simply upon inspection, we can see that the maze that is generated within the game itself is unsolvable. Although the title of this post is about Entombe and it's mazes, we're past that and I am starting to question why this problem is on the list of unsolvable problems[^1]. The maze generated isn't solvable and not special except for the aesthetics and a reddit thread about this in /r/programming seems to agree with me[^6], which sadly I stumbled upon only after spending enought time on this.
+Simply upon inspection, we can see that the maze that is generated within the game itself is unsolvable. Although the title of this post is about Entombe and it's mazes, we're past that and I am starting to question why this problem is even on the list of unsolvable problems[^1]. The maze generated isn't solvable and not special except for the aesthetics of it. A reddit thread about this in /r/programming seems to agree with me[^6], which sadly I stumbled upon only after spending enough time on this.
 
 However, I will move on to defining a new problem and possibly try to answer it. 
 
@@ -89,7 +87,7 @@ Assume our generated maze Z has a thick wall with two cells width on either side
 
 Ehhm... Waitt!!
 
-As I was trying this out in paper to order to prove it, I actually was able to come up with a configuration that generates a perfect maze (with only one path and no loops) and with more than one dead-ends, although it doesn't look very _challenging_, it does satisfy all the criteria and it is trivial to show that the maze will satisfy these conditions (Since no random selection is involved). [Here](https://codesandbox.io/s/solitary-microservice-6j1zk?file=/src/index.tsx) is the configuration for those who are interested (You might want to toggle the first row to something like 1,0,1,1,1,1,1)
+As I was trying this out in paper to order to prove it, I actually was able to come up with a configuration that generates a perfect maze (with only one path and no loops) and with more than one dead-ends, although it doesn't look very _challenging_, it does satisfy all the criteria and it is trivial to show that the maze will satisfy these conditions (Since no random selection is involved). [Here](https://codesandbox.io/s/solitary-microservice-6j1zk?file=/src/index.tsx) is the configuration for those who are interested (You might want to toggle the first row to something like 1, 1, 0, 1, 1, 1, 1, 1, ...)
 
 
 ![A maze which is perfect and has dead-ends](/assets/maze/silly_maze.png)
@@ -97,12 +95,34 @@ _Well, that was a bit disappointing_
 
 And even adding some randomness makes the maze a bit better, but still kinda not challenging.
 
+Here, the ? indicates bits which are randomly chosen.
+
 ![This maze looks a bit more interesting at least](/assets/maze/somewhat_okay_maze.png)
 _At least this one is a little bit better_
 
 
+Following are the rules used for this particular maze
 
-Okay, but this is not what I want, I want a maze that is challenging as well, and something that could be randomized (Although not strictly a requirement at the moment. So it's time to re-define our "Interesting Maze" a little bit more so that it actually is interesting!
+			00110 - 1
+			00111 - 0
+			01000 - R
+			01011 - 1
+			01100 - 1
+			01101 - 0
+			10000 - 1
+			10001 - 1
+			10010 - 1
+			10011 - 0
+			11000 - 1
+			11001 - 1
+			11011 - 1
+			11100 - 0
+			11101 - 0
+
+
+
+
+Okay, but this is not what I want, I want a maze that is challenging as well, and something that could be randomized although not strictly a requirement at the moment. So it's time to re-define our "Interesting Maze" a little bit more so that it actually is interesting!
 
 _Work in Progress_
 
