@@ -4,8 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-- Email: hey [at] irshadpi . me
+If you want to reach me, use one of the following options. I prefer email.
 
-- [@irshadshalu](https://twitter.com/irshadshalu) - Twitter
+- Email: hey [at] irshadpi . me
 
 - [/irshadpi](https://www.linkedin.com/in/irshadpi/) - LinkedIn

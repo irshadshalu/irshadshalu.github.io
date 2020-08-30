@@ -9,3 +9,4 @@ gem "jekyll-seo-tag", "~> 2.5"
 
 gem "bundler", "~> 2.0"
 gem "rake", "~> 12.3.3"
+gem "jekyll-sitemap", "~> 1.4.0"

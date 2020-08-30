@@ -8,6 +8,8 @@ permalink: /about
 
 I'm Irshad and introductions are hard. 
 
+### [My Browsing List](/browsing-list)
+
 ### Stuff I love
 
 Programming, Math, Philosophy, Photography, Music, Movies and Cats, time-travel, Chess and other abstract strategy games
