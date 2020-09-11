@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Mother Cat"
-date:   2020-09-11 19:24:04 +0530
+date:   2020-09-11 20:30:08 +0530
 categories: english story literature
 ---
 
@@ -40,7 +40,6 @@ Then it was only the darker sister, other sister stopped coming at all. Grandma 
 And one sudden day, we heard that sound, yes!!, the same sweet "meow", it's her, the mother cat!. Mom called me and grandma to the front and she was sitting there on top of the wall, proud as always, pregnant again. we were happy when she let out another sweet loud "meowww"
 
 ---------------------
----------------------
 
 Now, let me rewind a bit. Let me talk about my observation, the truths, things we didn't see and notice. Or in other words - just rambling silly thoughts of me when the power was down and I had nothing else to do.
 
@@ -58,4 +57,13 @@ When she left, both of her kittens were then assigned to our house, when they gr
 
 Meanwhile, the mother cat returned after completing her mission. Maybe for the next mission. Let's wait and see!
 
+## Pictures
+
+![The Mother Cat](/assets/cats/the_mother_cat.jpg)
+_The Mother Cat_
+
+![The Sisters](/assets/cats/the_sisters.jpg)
+_The Sisters_
+
+_Corrections and comments are welcome_ :)
 
