@@ -8,7 +8,7 @@ permalink: /about
 
 I'm Irshad and introductions are hard. 
 
-### [My Browsing List](/browsing-list)
+### [My Browsing List](/browse-list)
 
 ### Stuff I love
 

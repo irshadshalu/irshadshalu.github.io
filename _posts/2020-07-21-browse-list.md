@@ -19,6 +19,10 @@ I'll be adding more as I go. So do check back later. If you feel like you have s
 * [Programming Jargons](https://blog.codinghorror.com/new-programming-jargon/)
 
 
+### Random
+
+* [Jon Skeet Facts](https://meta.stackexchange.com/questions/9134/jon-skeet-facts) - Chuck Norris style jokes but for programming. Always cracks me up 😂
+
 ### Videos
 
 **Programming**
