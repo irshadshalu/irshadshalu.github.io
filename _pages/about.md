@@ -22,6 +22,8 @@ Programming, Math, Philosophy, Photography, Music, Movies and Cats, time-travel,
 
 [**Whatsaga**](https://play.google.com/store/apps/details?id=in.whatsaga.whatsapplongerstatus&referrer=utm_source%3Dpw) - A status saver and video cutter app for everday WhatsApp user.
 
+[**Venlow**](https://play.google.com/store/apps/details?id=com.venlow.vertical.fullscreen.whatsapp.video.status&hl=en_IN&referrer=utm_source%3Dpw) - A video pre-compressor for WhatsApp so that video quality doesn't degrade. <a href="https://taimienphi.vn" title="download"><img src="https://taimienphi.vn/Images/bn/reviewed/tmp2.png" title="awarded 5 Stars at Taimienphi" alt="download" /></a>
+
 [**WhatStickers**](https://play.google.com/store/apps/details?id=in.whatstickers.whatsapp.custom.sticker.maker.personal&referrer=utm_source%3Dpw) - A silly custom sticker maker app for Android. 
 
 ### Stuff I have written 
