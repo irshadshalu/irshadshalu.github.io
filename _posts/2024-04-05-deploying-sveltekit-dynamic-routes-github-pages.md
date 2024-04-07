@@ -99,7 +99,7 @@ Next step is telling Svelte how to handle errors which includes 404 Not found.
 Create a file named `+error.svelte` in `routes` with the following content
 
 `/src/routes/+error.svelte`:
-```svelte
+```html
 <script lang="ts">
     import { page } from '$app/stores'; 
 </script>
@@ -121,7 +121,7 @@ Create a new folder called `pages` inside `src` and add a new file `TerminalView
 _(This page here is an example, you would ideally customize as per your app. Where the page handles how to parse the pathname with slashes.)_
 
 `/src/pages/TerminalView.svelte`:
-```svelte
+```html
 <script lang="ts">
 	export let pathname: string;
 </script>
@@ -171,7 +171,7 @@ _(This page here is an example, you would ideally customize as per your app. Whe
 Then import it and use the page in `+error.svelte`
 
 `/src/routes/+error.svelte`:
-```svelte
+```html
 <script lang="ts">
 	import { page } from '$app/stores';
 	import TerminalView from '../pages/TerminalView.svelte';
@@ -246,7 +246,7 @@ in `src/routes/`, add a new directory named `404.html`,
 Then create a file named `+page.svelte` inside `404.html`:
 
 `/src/routes/404.html/+page.svelte`:
-```svelte
+```html
 <script lang="ts">
 	import { page } from '$app/stores';
 	import TerminalView from '../../pages/TerminalView.svelte';
