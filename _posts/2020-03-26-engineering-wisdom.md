@@ -2,7 +2,7 @@
 layout: post
 title:  "Engineering Wisdom"
 date:   2020-03-26 01:24:04 +0530
-categories: engineering coding
+categories: engineering code
 ---
 
 I've had a lot of Higher Secondary graduates coming up and asking me... 
