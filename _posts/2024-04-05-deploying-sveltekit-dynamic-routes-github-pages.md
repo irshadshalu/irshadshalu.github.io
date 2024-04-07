@@ -33,11 +33,10 @@ When you think about it, it seems like an impossible task. GitHub Pages just hos
 
 To rephrase the question,
 
-> How can there be a page that can catch all the URLs and route to the correct one dynamically?, 
+__How can there be a page that can catch all the URLs and route to the correct one dynamically?__
 
-And then the answer as spoiled by the title would be **the 404 error page**. GitHub lets you [add a custom 404 page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) which is what we are going to use.
+And then the answer becomes obvious: **the 404 error page**. Fortunately, GitHub lets you [add a custom 404 page](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site) which is what we are going to use.
 
-The idea is that we will add a custom 404 error page, which actually reads the path that was requested, and uses it to load the content based on the path. Let's get started with a starter SvelteKit app.
 
 
 __Here's [the code](https://github.com/irshadshalu/my-routed-app) for the project if you want to skip the article and just dive right in__
@@ -312,9 +311,9 @@ All the above code is pushed to repository [my-routed-app](https://github.com/ir
 
 ## Drawbacks
 
-The most obvious drawback is that the HTTP Response code for the page would be 404, which is not SEO friendly and 
+The most obvious drawback is that the HTTP Response code for the page would be 404, which is not SEO friendly and will throw errors in the development console. This is more of a gimmick than an actual way to handle dynamic routing. 
 
-This is more of a gimmick than an actual way to handle dynamic routing. But for some projects, this might just work well, as it did for ShareTime - [https://shareti.me/2024-04-08/4:20/+5:30](https://shareti.me/2024-04-08/4:20/+5:30)
+That said, for for some projects, this might just work well, as it did for ShareTime - [https://shareti.me/2024-04-08/4:20/+5:30](https://shareti.me/2024-04-08/4:20/+5:30)
 
 
 ## Using a Custom Domain
