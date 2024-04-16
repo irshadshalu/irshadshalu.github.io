@@ -7,7 +7,7 @@ categories: english story literature
 
 _"Stop bothering me, I know you're not real and that I'm dreaming."_
 
-He told her while twisting and turning in his sleep. Furiously sweating as his eyelids flicked fastly in rhythm with his heartbeats.
+He asked her while twisting and turning in his sleep. He was furiously sweating as his eyelids flicked fast in rhythm with his heartbeats.
 It was the fourth time that night. He kept trying, trying to fall asleep only to be awakened by a different nightmare. Weirdly enough, the person in those remained the same. 
 
 
@@ -80,8 +80,8 @@ _'It has to be a dream. I must wake up.'_
 
 And this time he did. Sweating profusely. 
 
-He looked around. The window, the mirror and even at the ceiling. She wasn nowhere to be found. A breath of relief left him. The AC in his room kept making extra noise in an attempt to try and cool the whole hallway. 
+He looked around. The window, the mirror and even the ceiling. She was nowhere to be found. He let out a breath of relief. The AC in his room made extra noise in an attempt to try and cool the hallway as well. 
 
-Goosebumps fluttered through his body. He took his phone and started writing. What should be the first line? Something that grabs attention! And he started typing...
+Goosebumps fluttered through his body. He took his phone and started writing. What should be the first line? Something that grabs attention! He started typing...
 
 _"Stop bothering me, I know you're not real and that I'm dreaming."_
