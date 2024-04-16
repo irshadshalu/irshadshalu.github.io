@@ -30,9 +30,9 @@ Another dream.
 
 He's in an exam hall. Well it's not an exam hall. There are a bunch of people. Sixty four to be exact. Everyone is the same height as him. Sitting down. Meditating or something?
 
-A dystopian future where you rent your brain time in order to get paid. The downside is that you can't be occupied with thoughts. You have to keep all your electronic devices away too - including your phone. 
+A dystopian future where you rent your brain time in order to get paid. The downside is that you can't be occupied with thoughts. You have to keep all your electronic devices away too - including your phone. He was distracted for a while.
 
-He was distracted for a while. Something triggered the system. A guard waked in to the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for a specific text? He didn't know.
+Something triggered the system. A guard walked in to the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for a specific text? He couldn't tell.
 
 She didn't look alright. Too pretty to be a guard. Her anger didn't suit her, neither did her uniform. She took out her gun and shot a person sitting three columns away from him.
 
