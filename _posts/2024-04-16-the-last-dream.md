@@ -5,7 +5,7 @@ date:   2024-04-15 20:25:04 +0530
 categories: english story literature
 ---
 
-_"Stop bothering me and leave, I know you're not real and that I'm dreaming."_
+_"Stop bothering me, I know you're not real and that I'm dreaming."_
 
 He told her while twisting and turning in his sleep. Furiously sweating as his eyelids flicked fastly in rhythm with his heartbeats.
 It was the fourth time that night. He kept trying, trying to fall asleep only to be awakened by a different nightmare. Weirdly enough, the person in those remained the same. 
@@ -84,4 +84,4 @@ He looked around. The window, the mirror and even at the ceiling. She wasn nowhe
 
 Goosebumps fluttered through his body. He took his phone and started writing. What should be the first line? Something that grabs attention! And he started typing...
 
-_"Stop bothering me and leave, I know you're not real and that I'm dreaming."_
+_"Stop bothering me, I know you're not real and that I'm dreaming."_
