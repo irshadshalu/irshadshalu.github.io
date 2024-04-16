@@ -15,30 +15,30 @@ It was the fourth time that night. He kept trying, trying to fall asleep only to
 _"Why are you talking to me?..."_
 
 The floating shadow from the other side of the window addressed him back. 
-Her high pitched voice was interlaced with a creaky noise, making it sweet yet uncanny. 
+Her high-pitched voice was interlaced with a creaky noise, making it sweet yet uncanny. 
 _".. aren't you scared of me?"_
 
-He was half awake, looking out through the window as the shadow got closer, a silhouette in moonlight. 
+He was half awake, looking out through the window as the shadow got closer, a silhouette in the moonlight. 
 
 _"You're being creepy, but I know I'm still in a dream and that you're not real. You can't do anything other than try and scare me in my dreams."_
 
-He waited for a reply. Seconds passed. Uneasy silence filled the void. He felt an intense stare as it just stood there. The figure kept getting vague as it faded away. He went back to sleep.
+He waited for a reply. Seconds passed. An uneasy silence filled the void. He felt an intense stare as it just stood there. The figure kept getting vague as it faded away. He went back to sleep.
 
 Another dream.
 
 ------
 
-He's in an exam hall. Well it's not an exam hall. There are a bunch of people. Sixty four to be exact. Everyone is the same height as him. Sitting down. Meditating or something?
+He's in an exam hall. Well, it's not an exam hall. There are a bunch of people. Sixty-four to be exact. Everyone is the same height as him. Sitting down. Meditating or something?
 
-A dystopian future where you rent your brain time in order to get paid. The downside is that you can't be occupied with thoughts. You have to keep all your electronic devices away too - including your phone. He was distracted for a while.
+A dystopian future where you rent your brain time to get paid. The downside is that you can't be occupied with thoughts. You have to keep all your electronic devices away too - including your phone. He was distracted for a while.
 
-Something triggered the system. A guard walked in to the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for a specific text? He couldn't tell.
+Something triggered the system. A guard walked into the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for a specific text? He couldn't tell.
 
 She didn't look alright. Too pretty to be a guard. Her anger didn't suit her, neither did her uniform. She took out her gun and shot a person sitting three columns away from him.
 
 There were a few seconds of confused silence before the room turned into chaos. 
 
-He fell down to the floor and held his hands close in a fetal position. She moved her rifle pointing from person to person and eventually him. 
+He fell to the floor and held his hands close in a fetal position. She moved her rifle pointing from person to person and eventually him. 
 
 No one tried to stop her as she pulled the trigger, jolting him awake. Again. 
 
@@ -46,7 +46,7 @@ No one tried to stop her as she pulled the trigger, jolting him awake. Again.
 
 _"For fucks sake."_ He burst out as mosquitos buzzed around his ears. They were having a feast that night. 
 
-He saw a face across the door to hallway. Familiar. The same face in uniform without the anger, the one that appeared in the mirror, the same seductive figure that was a shadow in moonlight. She wore an ordinary nightdress. Her wavy body was visible thorugh the half transparent cloth.
+He saw a face across the door to the hallway. Familiar. The same face in uniform without the anger, the one that appeared in the mirror, the same seductive figure that was a shadow in the moonlight. She wore an ordinary nightdress. Her wavy body was visible through the half-transparent cloth.
  
 
  _"Oh it's you!"_
@@ -70,11 +70,11 @@ The wall stopped them eventually as he grabbed her by the arm. Her eyes kept wan
 
 He was in shock, it was unexpected. Isn't she supposed to be like a hologram? How could he feel her skin and her breath?
 
-Her flesh felt real. Their eyes locked. A women's touch. Her skin felt like the smoothest surface he's ever laid his finger on. 
+Her flesh felt real. Their eyes locked. A woman's touch. Her skin felt like the smoothest surface he's ever laid his finger on. 
 
 It went the opposite of what he expected. A confrontation of lips as their eyes closed in darkness. He could taste her and it was too real to be a dream. 
 
-Something just clicked in his brain. The last few active cells of his nervous system sending down a spark of caution.
+Something just clicked in his brain. The last few active cells of his nervous system sent down a spark of caution.
 
 _'It has to be a dream. I must wake up.'_
 
