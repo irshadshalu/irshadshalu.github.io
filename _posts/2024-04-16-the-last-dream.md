@@ -20,7 +20,7 @@ _".. aren't you scared of me?"_
 
 He was half awake, looking out through the window as the shadow got closer, a silhouette in moonlight. 
 
-_"You're being creepy, but I know I'm still in a dream and that you're not real. You can't do anything other than scare me in my dreams."_
+_"You're being creepy, but I know I'm still in a dream and that you're not real. You can't do anything other than try and scare me in my dreams."_
 
 He waited for a reply. Seconds passed. Uneasy silence filled the void. He felt an intense stare as it just stood there. The figure kept getting vague as it faded away. He went back to sleep.
 
@@ -32,7 +32,7 @@ He's in an exam hall. Well it's not an exam hall. There are a bunch of people. S
 
 A dystopian future where you rent your brain time in order to get paid. The downside is that you can't be occupied with thoughts. You have to keep all your electronic devices away too - including your phone. 
 
-He is distracted, something triggered the system. A guard waked in to the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for that text from someone special? He didn't know.
+He was distracted for a while. Something triggered the system. A guard waked in to the room. She asked around, looked around. They weren't getting the same brain activity output as they should. Was it because he was bothered about his phone? Waiting for a specific text? He didn't know.
 
 She didn't look alright. Too pretty to be a guard. Her anger didn't suit her, neither did her uniform. She took out her gun and shot a person sitting three columns away from him.
 
