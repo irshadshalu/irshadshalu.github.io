@@ -14,7 +14,7 @@ It was the fourth time that night. He kept trying, trying to fall asleep only to
 
 _"Why are you talking to me?..."_
 
-The floating shadow from the other side of the window addressed him back. 
+A floating shadow from the other side of the window addressed him back. 
 Her high-pitched voice was interlaced with a creaky noise, making it sweet yet uncanny. 
 _".. aren't you scared of me?"_
 
@@ -22,7 +22,7 @@ He was half awake, looking out through the window as the shadow got closer, a si
 
 _"You're being creepy, but I know I'm still in a dream and that you're not real. You can't do anything other than try and scare me in my dreams."_
 
-He waited for a reply. Seconds passed. An uneasy silence filled the void. He felt an intense stare as it just stood there. The figure kept getting vague as it faded away. He went back to sleep.
+He waited for a reply. Seconds passed. An uneasy silence filled the void. The figure kept getting vague as it faded away. He went back to sleep.
 
 Another dream.
 
@@ -46,7 +46,7 @@ No one tried to stop her as she pulled the trigger, jolting him awake. Again.
 
 _"For fucks sake."_ He burst out as mosquitos buzzed around his ears. They were having a feast that night. 
 
-He saw a face across the door to the hallway. Familiar. The same face in uniform without the anger, the one that appeared in the mirror, the same seductive figure that was a shadow in the moonlight. She wore an ordinary nightdress. Her wavy body was visible through the half-transparent cloth.
+He saw a face across the door to the hallway. Familiar. The same face that of the guard, the one that appeared in the mirror, the same seductive figure that was a shadow in the moonlight. She wore an ordinary nightdress. Her wavy body was visible through the half-transparent cloth.
  
 
  _"Oh it's you!"_
