@@ -5,10 +5,10 @@ date:   2025-09-08 06:25:04 +0530
 categories: english story literuxure
 ---
 
-How did I wind up here? By nature, I avoid weddings -- especially those of distant relatives, but here I am, and I recognize only a few faces. I looked at the bride who I vaguely know from our limited interactions during family gatherings.
+How did I wind up here? It's in my nature to avoid weddings -- especially those of distant relatives, but here I am. My eyes wandered around aimlessly. 
 
 
-There were stalls of food arranged parallelly on either side of the lawn. Drinks, too and several groups scattered here and there.
+There were stalls of food arranged on either side of the lawn. Drinks too and several groups scattered here and there.
 
 I walked over to the only group I could recognise there - a few of my distant cousins. I had mastered smalltalk to the point where I could blend in a group without speaking a word. A smile would do as I leaned into listen to them.
 
@@ -28,7 +28,7 @@ _"Have you all eaten?"_
 
 She asked us courteously, I stayed silent while a soft "no.." erupted from our tiny crowd. As I followed them to the dining table, I could still feel her eyes on me, glancing back as I sat down.
 
-Usually, I would have left after dinner, but my eyes kept searching for her and there she was - at the edge of the garden near the lily pond, staring out to the night sky, almost as if she's having a conversation with the moon.
+Usually, I would have left right after dinner, but my eyes kept searching for her and there she was - at the edge of the garden near the lily pond, staring out to the night sky, almost as if she's having a conversation with the moon.
 
 I gathered my twenty seconds of insane courage to strike up a conversation. 
 _"The moon’s stunning tonight, isn’t it?"_ I said, slightly embarrassed by how cheesy it sounded.
