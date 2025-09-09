@@ -2,10 +2,8 @@
 layout: post
 title:  "The One Who Got Away"
 date:   2025-09-08 06:25:04 +0530
-categories: english story literature
+categories: english story literuxure
 ---
-
-It didn't feel like a wedding eve to me. Even the luxuriously decorated tent and soft music couldn’t lift the odd feeling.
 
 How did I wind up here? By nature, I avoid weddings -- especially those of distant relatives, but here I am, and I recognize only a few faces. I looked at the bride who I vaguely know from our limited interactions during family gatherings.
 
