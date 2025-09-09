@@ -37,7 +37,7 @@ Her anxious face bloomed into a smile as she turned toward me, the wine glass gl
 
 _"It is. Lucky are the ones who stargaze every night."_
 
-it felt like I've always known her, the conversation sailed along, with more wine and some gin. We talked about everything from here to the moon and beyond. An hour felt like a minute.
+it felt like I've always known her, the conversation sailed along, with more wine and some gin. We talked about everything from here to the moon and beyond. An hour felt like few minutes.
 
 A cousin dragged me to the stage for the family picture as I managed to tell her that I’d be back in minutes.
 
@@ -45,11 +45,11 @@ She wasn't there when I returned. I couldn't find her. All that talk and didn't 
 
 I looked for her in all the places, from kitchen to bedroom. In the rush, I ended up walking to a room, where I found the bride and the groom's father talking. - I had to apologize and leave quickly. It was a bit weird to find them there on the wedding eve. _"Rich family things"_, I thought to myself. 
 
-I gave up eventually and decided to leave, only to find a notification on my phone. It was on Lowkey - an app I was working on at the time. she probably remembered my username when I was discussing about modern dating and the app with her. 
+I gave up eventually and decided to leave, only to find a notification on my phone. It was in one of the apps I was working on at the time with anonymous feedback and chat. She probably remembered my username when I was discussing about modern dating and the app with her. 
 
 _"Do you miss me already?"_
 
-She replied to my page. Our texts were engaging, just the same intensity as we were in person. A bit of tease and flirt, here and there. I told her that I'm good at holding my horses back, controlling myself and not letting go. She said she had to test that.
+She replied. Our texts were engaging, just the same intensity as we were in person.  More teasing and flirting here and there. When it started crossing boundaries, I told her that I'm good at holding my horses back, controlling myself and not letting go. She said she had to test that.
 
 She came down to meet again, talk and more drinks, until the stalls closed. We were tipsy and out of our minds. 
 
