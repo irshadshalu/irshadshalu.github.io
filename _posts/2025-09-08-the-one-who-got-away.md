@@ -5,7 +5,7 @@ date:   2025-09-08 06:25:04 +0530
 categories: english story literuxure
 ---
 
-How did I wind up here? It's in my nature to avoid weddings -- especially those of distant relatives, but here I am. My eyes wandered around aimlessly. 
+How did I wind up here? I usually avoid weddings, especially those of distant relatives, but here I am. My eyes wandered around aimlessly. 
 
 
 There were stalls of food arranged on either side of the lawn. Drinks too and several groups scattered here and there.
