@@ -1,10 +1,11 @@
 ---
 layout: default
 title: About Me
+description: "Irshad Pokkakillath Ismail (Irshad P I) — programmer, blogger, and maker."
 permalink: /about
 ---
 
-I'm Irshad and introductions are hard. 
+I'm Irshad Pokkakillath Ismail (also known as Irshad P I) and introductions are hard. 
 
 ### [My Browsing List](/browse-list)
 

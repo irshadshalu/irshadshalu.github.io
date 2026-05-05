@@ -1,6 +1,6 @@
 # Site settings
 title:          Obfuscated Memories
-description:    "Personal blog of Irshad P I"
+description:    "Personal blog of Irshad Pokkakillath Ismail (Irshad P I)"
 url:            "https://irshadpi.me"
 
 # Google Analytics
@@ -8,7 +8,7 @@ google_analytics: UA-158042880-1
 
 # Author
 author:
-  name:         Irshad
+  name:         Irshad Pokkakillath Ismail
   url:          https://irshadpi.me
 
 # Build settings
